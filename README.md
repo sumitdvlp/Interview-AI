@@ -6,7 +6,6 @@ The project is an attempt to address the challenge of finding the best fit candi
 The intelligent interview system utilizes the Voice UI interface of the Amazon Alexa to ask behavioral questions to the candidates to give a virtual feel of the interview.
 
 ## Setup
-###Architecture
 ![alt text](https://github.com/sumitdvlp/Interview-AI/blob/master/arch.jpg)
 
 ### Machine Learning Algortihm
