@@ -6,6 +6,8 @@ The project is an attempt to address the challenge of finding the best fit candi
 The intelligent interview system utilizes the Voice UI interface of the Amazon Alexa to ask behavioral questions to the candidates to give a virtual feel of the interview.
 
 ## Setup
+###Architecture
+![alt text](https://github.com/sumitdvlp/Interview-AI/blob/master/arch.jpg)
 
 ### Machine Learning Algortihm
 1. Install Google Machine Learning framework in python, TensorFlow.
@@ -56,3 +58,4 @@ Here are a few direct links to Amazon's documentation that helped us in our proj
 - [Getting Started](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/getting-started-guide)
 - [Invocation Name Guidelines](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/choosing-the-invocation-name-for-an-alexa-skill)
 - [Developing an Alexa Skill as an AWS Lambda Function](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-lambda-function)
+
